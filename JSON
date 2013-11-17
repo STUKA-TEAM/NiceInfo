@@ -9,3 +9,10 @@ http://stackoverflow.com/questions/4083702/posting-a-file-and-data-to-restful-we
 
 前端普通组装    
 http://stackoverflow.com/questions/11078324/how-to-create-json-object-using-jquery    
+    
+Spring直接返回JSON（@ReponseBody）    
+http://www.mkyong.com/spring-mvc/spring-3-mvc-and-json-example/    
+http://codetutr.com/2013/04/09/spring-mvc-easy-rest-based-json-services-with-responsebody/    
+
+
+
