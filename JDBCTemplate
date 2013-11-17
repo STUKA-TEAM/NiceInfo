@@ -3,3 +3,6 @@ http://docs.spring.io/spring/docs/3.2.5.RELEASE/spring-framework-reference/htmls
     
 简明教程    
 http://www.tutorialspoint.com/spring/spring_jdbc_framework.htm    
+    
+MySQL 类型 和 JAVA 类型
+http://dev.mysql.com/doc/refman/5.0/en/connector-j-reference-type-conversions.html    
