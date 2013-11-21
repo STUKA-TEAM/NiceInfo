@@ -1,2 +1,5 @@
 @PathVariable 和 @RequestParam    
 http://stackoverflow.com/questions/13715811/requestparam-vs-pathvariable    
+
+数据绑定时错误处理    
+http://jinnianshilongnian.iteye.com/blog/1662678    
